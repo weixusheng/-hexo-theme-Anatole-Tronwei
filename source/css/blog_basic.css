@@ -535,3 +535,13 @@ dl dt {
 .leancloud-visitors-count{
   margin-left: 5px;
 }
+
+.by_farbox {
+  font-size: 12px;
+}
+.by_farbox a {
+  color: #A6A6A6;
+}
+.by_farbox a:hover {
+  color: #4786D6;
+}
