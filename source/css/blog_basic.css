@@ -39,7 +39,7 @@
 }
 
 pre {
-  font-size: 1em!important;
+  font-size: 16px!important;
   background-color: #f8f8f8!important;
   font-family: 'Roboto Mono','Lucida Console','Trebuchet MS','Courier New', Monaco, courier,'PingFang SC','Hiragino Sans GB','Microsoft Jhenghei','Microsoft YaHei', monospace!important
 }
@@ -76,7 +76,7 @@ figure.highlight.html .code:after,figure.highlight.js .code:after,figure.highlig
   right: 0!important;
   color: #ccc!important;
   text-align: right!important;
-  font-size: 0.75em!important;
+  font-size: 16px!important;
   padding: 5px 10px 0!important;
   line-height: 15px!important;
   height: 15px!important;
