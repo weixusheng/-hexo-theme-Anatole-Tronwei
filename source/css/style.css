@@ -184,7 +184,7 @@ a:hover, a:active {
 }
 .sidebar .logo-title {
   text-align: center;
-  padding-top: 120px;
+  padding-top: 100px;
 }
 .sidebar .logo-title .description {
   font-size: 20px;
@@ -194,6 +194,7 @@ a:hover, a:active {
   margin: 0 auto;
 }
 .sidebar .logo-title .title h3 {
+  padding-top: 20px;
   text-transform: uppercase;
   font-size: 5rem;
   font-weight: bold;
@@ -656,13 +657,13 @@ a.btn {
     z-index: 1;
   }
   .sidebar .logo-title {
-    padding-top: 80px;
+    padding-top: 60px;
   }
   .sidebar .logo-title .title img {
     width: 100px;
   }
   .sidebar .logo-title .title h3 {
-    font-size: 20px;
+    font-size: 10px;
   }
 
   .page-top {
